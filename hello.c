@@ -3,6 +3,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Jarred Sinica\n");
+  printf("Computer engineering\n")
   return 0;
+
 }
